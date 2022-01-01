@@ -1,0 +1,18 @@
+#VBA of Wall Street 
+
+##Overview of Project
+For this project, we are helping Steve to research and expand a dataset that possibly include the whole stock market. We are given an Excel filled with different stock tickers containing information such as their daily Open and Close price, daily High and Low price, volumes traded, adjusted closing price, and the trading date.  
+Now, we need to refactor the code to efficiently loop through all the data and give us the the proper result where we can see which stock is profitable or not between the year of 2017 and 2018. We are also attempting to refactor VBA codes to run through the dataset faster.  
+
+##Results 
+
+
+
+
+
+
+
+
+
+
+##Summary 
